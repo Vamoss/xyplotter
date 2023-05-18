@@ -14,6 +14,20 @@ https://www.thingiverse.com/thing:472573
 ## Leituras
 1. Eletrônica: [Conexão do driver L293D  com Nema17](https://www.usinainfo.com.br/blog/motor-shield-l293d-driver-ponte-h-no-controle-de-motores/)
 
+2. Entendendo a class de controle [AF_Stepper](https://learn.adafruit.com/afmotor-library-reference/af-stepper-class)
+
+3. [Vídeo inspiração](https://www.youtube.com/watch?v=T0jwdrgVBBc) de onde o projeto foi extraído
+
+4. Suporte para caneta no [Thingverse](https://www.thingiverse.com/thing:472573)
+
+5. Artigo sobre o [processo de montagem de uma XY Plotter](https://www.instructables.com/Polargraph-Drawing-Machine/)
+
+6. Serie de [leituras sobre polargraph](https://github.com/euphy/polargraph/wiki)
+
+7. Tutorial de [como montar sua XY Plotter com PCB personalizada](https://github.com/MertArduino/mXY-board-xy-plotter-drawing-machine)
+
+8. [Software feito em processing para controlar a caneta](https://github.com/euphy/polargraphcontroller)
+
 ## Equipamentos
 
  1. 3 Polias Gt2 16 Dentes + 5 Metros Correia Gt2 6mm Passo 2 [R$ 128,43](https://produto.mercadolivre.com.br/MLB-1674619623-3-polias-gt2-16-dentes-5-metros-correia-gt2-6mm-passo-2-_JM?quantity=1)
